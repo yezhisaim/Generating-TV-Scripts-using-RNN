@@ -7,4 +7,4 @@ Programming language: Python
     Uses Floyd (https://www.floydhub.com) and Tensorflow 1.0 
     Command line:
       floyd init
-      floyd run dlnd_tv_script_generation.ipynb -env tensorlow 1.0 --gpu
+      floyd run dlnd_tv_script_generation.ipynb -env tensorflow 1.0 --gpu
